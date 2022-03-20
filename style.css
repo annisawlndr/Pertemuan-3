@@ -52,10 +52,12 @@
   }
 
   img.hover-shadow {
+    transition: 0.3s;
     cursor: pointer;
   }
   
   .hover-shadow:hover {
+    transition: 0.3s;
     box-shadow: 0 4px 8px 0 rgb(21, 21, 94), 0 6px 20px 0 rgba(36, 35, 35, 0.19);
   }
 
