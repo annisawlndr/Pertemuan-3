@@ -78,12 +78,12 @@
   }
   
   .topnav a:hover {
-    background-color:white;
+    background-color: #DFF6FF;
     color: rgb(21, 21, 94);
   }
   
   .topnav a.active {
-    background-color: white;
+    background-color: #DFF6FF;
     color: rgb(21, 21, 94);
   }
   
@@ -93,4 +93,13 @@
 
   .topnav a.logo {
     font-weight: bold;
+  }
+
+  body {
+    background-color: #DFF6FF;
+  }
+
+  footer {
+    background-color: rgb(21, 21, 94);
+    text-emphasis-color: white;
   }
